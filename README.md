@@ -1,5 +1,19 @@
 # Mini-Instagram
-# It's a project designed to apply our skills related to data structures like graphs, hashing, queue, stack and apply techniques like file handling.
+# It's a project designed to apply our skills related to data structures like graphs, hashing, queue, stack and apply techniques like file handling. It includes the functionalities:
+# a. Signup: Validate usernames for uniqueness and enforce password strength rules.
+# b. Login: Allow password resets using security questions.
+# c. Logout: Allow the user to logout from his account.
+# d. Follow Request: Show pending requests and allow bulk approvals.
+# e. Cancel and Accept Requests: Add an option to notify the user when a request is accepted.
+# f. Posts: Implement a basic timeline view to display posts from followers.
+# g. Notifications: Display notifications queue of the unread messages, related to follow request...
+# h. Messaging: Allow users to message to whom they are following.
+# i. Search Users: Display the list of searched users using BST traversal.
+# j. Followers List: Display the user’s follower’s list
+# k. Newsfeed: Display user’s own posts.
+# l. Block users
+# m. Unblock users
+# n. screentime display
 # A well commented, detailed code of this project:
 #include <iostream>
 #include <string>
